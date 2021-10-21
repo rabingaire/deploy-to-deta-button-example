@@ -1,6 +1,7 @@
 {
 	"name": "hello_world",
 	"description": "Deploy to Deta button example",
+	"cron": "3 minutes",
 	"env": [
 		{
 			"key": "NAME",
